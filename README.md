@@ -44,22 +44,6 @@ For more details, see [the Installation docs page](https://www.ruby-lang.org/en/
 - LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
 - Portfolio: [Edward Odhiambo](https://edwardodhiambo.com/)
 
-**Terbeche Mostefa**
-
-- GitHub: [@githubhandle](https://github.com/Terbeche)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mustapha-terbeche/)
-
-**Patrick MUKUNZI**
-
-- GitHub: [@Patrick](https://github.com/Pazzo97)
-- Twitter: [@Patrick](https://twitter.com/mukunzipat)
-- LinkedIn: [@Patrick](https://www.linkedin.com/in/patrick-mukunzi/)
-
-**AZEEM OLATUNJI**
-
-- GitHub: [@zemola](https://github.com/zemola)
-- Twitter: [@zemolat](https://twitter.com/zemolat)
-- LinkedIn: [@Azeem](https://www.linkedin.com/in/olatunjiazeem/)
 
 ## 🤝 Contributing
 
