@@ -1,24 +1,80 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails Back-End API
 
-Things you may want to cover:
+> This is a simple hello world application build on Rails as an API. The aim is to create an API endpoint that selects a random greeting from your table.
 
-* Ruby version
+## Built With
 
-* System dependencies
+![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
+![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
+![PostgreSQL](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
 
-* Configuration
+## Get Started
 
-* Database creation
+### Run
 
-* Database initialization
+```
+To get a clone of the project, run `git clone https://github.com/white3d/hello-rails-back-end.git`
+```
 
-* How to run the test suite
+```
+cd /hello-rails-back-end
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+rails server
+```
 
-* Deployment instructions
 
-* ...
+### Available Scripts
+
+Gets all the required dependencies of the projects.
+
+**`bundle install`**
+
+For more details, see [the Installation docs page](https://www.ruby-lang.org/en/).
+
+## Authors
+
+👤 **Edward Odhiambo**
+
+- GitHub: [@whit3d](https://github.com/white3d)
+- Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
+- LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
+- Portfolio: [Edward Odhiambo](https://edwardodhiambo.com/)
+
+**Terbeche Mostefa**
+
+- GitHub: [@githubhandle](https://github.com/Terbeche)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mustapha-terbeche/)
+
+**Patrick MUKUNZI**
+
+- GitHub: [@Patrick](https://github.com/Pazzo97)
+- Twitter: [@Patrick](https://twitter.com/mukunzipat)
+- LinkedIn: [@Patrick](https://www.linkedin.com/in/patrick-mukunzi/)
+
+**AZEEM OLATUNJI**
+
+- GitHub: [@zemola](https://github.com/zemola)
+- Twitter: [@zemolat](https://twitter.com/zemolat)
+- LinkedIn: [@Azeem](https://www.linkedin.com/in/olatunjiazeem/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!!!
+
+Feel free to check the [issues page](https://github.com/white3d/hello-rails-back-end/issues)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to [Murat Korkmaz on Behance](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign/modules/173005577) the original design owner.
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
