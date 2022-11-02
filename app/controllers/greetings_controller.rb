@@ -4,8 +4,11 @@ class GreetingsController < ApplicationController
   # GET /greetings
   def index
     @greetings = Greeting.all
-
-    render json: @greetings
+    if @greetings.empty?
+      json_response({ msg: 'No Greetings at this time' }, 400)
+    else
+      render json: @greetings[rand(0...@greetings.length - 1)]
+    end
   end
 
   # GET /greetings/1
