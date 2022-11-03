@@ -4,6 +4,8 @@
 
 > This is a simple hello world application build on Rails as an API. The aim is to create an API endpoint that selects a random greeting from your table.
 
+See [Front-End](https://github.com/white3d/hello-react-front-end) Repo
+
 ## Built With
 
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
